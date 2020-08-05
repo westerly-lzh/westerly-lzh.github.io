@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: 企业版
 subtitle: Website Design
 layout: default
 modal-id: 2
@@ -9,7 +9,7 @@ thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: 全面可配置的SAP Basis及业务流程监控
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
