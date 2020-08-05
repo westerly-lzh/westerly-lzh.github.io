@@ -1,6 +1,6 @@
 ---
 title: 企业版
-subtitle: Website Design
+subtitle: 全面可配置的SAP Basis及业务流程监控
 layout: default
 modal-id: 2
 date: 2014-07-17

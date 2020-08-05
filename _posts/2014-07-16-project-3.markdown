@@ -1,6 +1,6 @@
 ---
 title: 数据中心版
-subtitle: Website Design
+subtitle: 多客户、多系统集中监控
 layout: default
 modal-id: 3
 date: 2014-07-16
