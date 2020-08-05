@@ -4,7 +4,7 @@ subtitle: 全面可配置的SAP Basis及业务流程监控
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
+img: coffee4.jpg
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014

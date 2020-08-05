@@ -4,7 +4,7 @@ subtitle: 多客户、多系统集中监控
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
+img: coffee16.jpg
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
