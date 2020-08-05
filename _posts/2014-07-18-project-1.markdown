@@ -4,8 +4,8 @@ subtitle: SAP Basis相关监控功能
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: coffee1.jpg
-thumbnail: coffee1-thumbnail.jpg
+img: professional.png
+thumbnail: professional-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
