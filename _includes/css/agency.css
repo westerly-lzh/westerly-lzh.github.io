@@ -119,7 +119,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
+    margin-left:30px
+	padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
@@ -279,7 +280,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 1px;
+    padding-top: 100px;
     padding-bottom: 50px;
 }
 
@@ -302,8 +303,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 180px;
+        padding-bottom: 280px;
     }
 
     header .intro-text .intro-lead-in {
@@ -315,7 +316,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 90px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
