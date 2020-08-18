@@ -119,7 +119,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    float: right;
+    margin-top: 80px;
+	float: right;
 	padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
