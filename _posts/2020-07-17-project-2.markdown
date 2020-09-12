@@ -8,7 +8,7 @@ img: server.png
 thumbnail: server-thumbnail.png
 alt: image-alt
 project-date: April 2020
-client: 企业版
+client: B企业版
 category: 全面可配置的SAP Basis及业务流程监控
 description: Coffee监控企业版，为您提供了专业可定制的监控内容，从全方位满足您的SAP服务监控.
 

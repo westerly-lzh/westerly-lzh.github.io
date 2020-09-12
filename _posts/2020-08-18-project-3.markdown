@@ -8,7 +8,7 @@ img: datacenter.png
 thumbnail: datacenter-thumbnail.png
 alt: image-alt
 project-date: April 2020
-client: 数据中心版
+client: C数据中心版
 category: 多客户、多系统集中监控
 description: Coffee监控完全满足您的多客户多SAP系统的集中监控.
 

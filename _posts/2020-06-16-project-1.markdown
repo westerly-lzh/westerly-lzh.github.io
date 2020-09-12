@@ -8,7 +8,7 @@ img: professional.png
 thumbnail: professional-thumbnail.png
 alt: image-alt
 project-date: April 2020
-client: 专业版
+client: A专业版
 category: SAP Basis相关监控功能
 description: Coffee监控专业版为您提供了简便的安装方式，您可以使用内置的监控内容来对您的系统进行监控管理.
 
