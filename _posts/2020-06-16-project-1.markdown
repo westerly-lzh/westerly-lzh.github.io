@@ -3,7 +3,7 @@ title: 专业版
 subtitle: SAP Basis相关监控功能
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2020-06-16
 img: professional.png
 thumbnail: professional-thumbnail.png
 alt: image-alt

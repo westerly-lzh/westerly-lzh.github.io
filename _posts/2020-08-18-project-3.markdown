@@ -3,7 +3,7 @@ title: 数据中心版
 subtitle: 多客户、多系统集中监控
 layout: default
 modal-id: 3
-date: 2020-07-16
+date: 2020-08-18
 img: datacenter.png
 thumbnail: datacenter-thumbnail.png
 alt: image-alt
