@@ -1,17 +1,8 @@
 ---
+layout: service-detail
 title: Document Management Solution
 permalink: /solutions/
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-  {% include body-head.html %}
-<body>
-  <div class="body-inner">
-	{% include body-header.html %}
-
-	{% include service-single-banner.html %}
-
 <section id="main-container" class="main-container">
   <div class="container">
     <div class="row">
@@ -197,13 +188,3 @@ permalink: /solutions/
     </div><!-- Main row end -->
   </div><!-- Conatiner end -->
 </section><!-- Main container end -->
-	
-	
-
-
-
-	{% include index-footer-section.html %}
-  </div><!-- Body inner end -->
-  </body>
-	{% include index-js-section.html %}
-  </html>
