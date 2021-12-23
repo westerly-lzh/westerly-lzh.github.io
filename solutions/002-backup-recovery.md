@@ -15,7 +15,7 @@ permalink: /solutions/002-backup-recovery.html
             <ul class="nav service-menu">
               <li><a href="/solutions/002-backup-recovery.html#features">Flexible deployment</a></li>
               <li><a href="/solutions/002-backup-recovery.html#features">Operational simplicity</a></li>
-              <li><a href="/solutions/002-backup-recovery.html#features">Operational simplicity</a></li>
+              <li><a href="/solutions/002-backup-recovery.html#features">Enterprise-Grade Resilience</a></li>
 			</ul>
           </div><!-- Widget end -->
 
