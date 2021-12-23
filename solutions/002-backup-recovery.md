@@ -57,7 +57,7 @@ permalink: /solutions/002-backup-recovery.html
 
           <div id="page-slider" class="page-slider">
             <div class="item">
-              <img loading="lazy" class="img-fluid" src="/images/solutions/backup-recovery001.jpg" alt="solution-slider-image" />
+              <img loading="lazy" class="img-fluid" src="/images/solutions/backup-recovery001.png" alt="solution-slider-image" />
             </div>
 
             <div class="item">
