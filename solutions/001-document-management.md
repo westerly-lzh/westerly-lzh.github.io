@@ -1,7 +1,7 @@
 ---
 layout: service-detail
 title: Document Management Solution
-permalink: /solutions/
+permalink: /solutions/001-document-management.html
 ---
 <section id="main-container" class="main-container">
   <div class="container">
