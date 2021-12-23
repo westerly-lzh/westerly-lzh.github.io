@@ -95,18 +95,18 @@ permalink: /solutions/002-backup-recovery.html
 			</div>
 						<div class="col-md-6">
 			<ul class="list-arrow">
-                <li>Log management and truncation</li>
-<li>Third-party integrations</li>
-<li>Hypervisor aware</li>
-<li>Physical and virtual protection</li>
-<li>Cloud system security</li>
-<li>API integration</li>
-<li>Database consistency preservation</li>
-<li>Integrated appliance</li>
-<li>Agentless backup at the VM-host level</li>
-<li>Backup storage</li>
-<li>Open APIs</li>
-<li>Automated new VM recovery</li>
+<li>Self-service access</li>
+<li>Non-disruptive backup</li>
+<li>New instance discovery and protection</li>
+<li>Open API allows third-party offerings</li>
+<li>Extensive tape library</li>
+<li>Drive compatibility</li>
+<li>Support for backup appliances</li>
+<li>Storage system snapshots</li>
+<li>Replication orchestration</li>
+<li>Cloud storage utilization</li>
+<li>Snapshot management</li>
+<li>Granular restores</li>
               </ul>
 			</div>
           </div>
