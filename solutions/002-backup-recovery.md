@@ -76,7 +76,9 @@ permalink: /solutions/002-backup-recovery.html
               <h3 class="column-title-small" id="features">Key Features of Our Solution</h3>
 
               <p>As the #1 data backup and recovery solution worldwide, NetBackup gives enterprise IT a simple and powerful way to ensure the integrity and availability of their data – from edge to core to cloud. With 100 exabytes of information currently under management, no other solution comes close.</p>
-              <ul class="list-arrow">
+			</div>
+			<div class="col-md-6">
+			<ul class="list-arrow">
                 <li>Log management and truncation</li>
 <li>Third-party integrations</li>
 <li>Hypervisor aware</li>
@@ -89,21 +91,25 @@ permalink: /solutions/002-backup-recovery.html
 <li>Backup storage</li>
 <li>Open APIs</li>
 <li>Automated new VM recovery</li>
-<li>Self-service access</li>
-<li>Non-disruptive backup</li>
-<li>New instance discovery and protection</li>
-<li>Open API allows third-party offerings</li>
-<li>Extensive tape library</li>
-<li>Drive compatibility</li>
-<li>Support for backup appliances</li>
-<li>Storage system snapshots</li>
-<li>Replication orchestration</li>
-<li>Cloud storage utilization</li>
-<li>Snapshot management</li>
-<li>Granular restores</li>
               </ul>
-			  </div>
-            </div>
+			</div>
+						<div class="col-md-6">
+			<ul class="list-arrow">
+                <li>Log management and truncation</li>
+<li>Third-party integrations</li>
+<li>Hypervisor aware</li>
+<li>Physical and virtual protection</li>
+<li>Cloud system security</li>
+<li>API integration</li>
+<li>Database consistency preservation</li>
+<li>Integrated appliance</li>
+<li>Agentless backup at the VM-host level</li>
+<li>Backup storage</li>
+<li>Open APIs</li>
+<li>Automated new VM recovery</li>
+              </ul>
+			</div>
+          </div>
           <!--2nd row end -->
 
           <div class="gap-40"></div>
