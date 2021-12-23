@@ -1,6 +1,9 @@
 url: https://westerly-lzh.github.io
 baseurl: /
 title: Constra
+email: info@constra.com
+phone: +1 123456789
+
 
 markdown: kramdown
 permalink: pretty
