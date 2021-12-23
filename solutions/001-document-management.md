@@ -63,11 +63,11 @@ permalink: /solutions/001-document-management.html
 
           <div id="page-slider" class="page-slider">
             <div class="item">
-              <img loading="lazy" class="img-fluid" src="/images/solution/document-management001.jpg" alt="solution-slider-image" />
+              <img loading="lazy" class="img-fluid" src="/images/solutions/document-management001.jpg" alt="solution-slider-image" />
             </div>
 
             <div class="item">
-              <img loading="lazy" class="img-fluid" src="/images/solution/document-management002.png" alt="solution-slider-image" />
+              <img loading="lazy" class="img-fluid" src="/images/solutions/document-management002.png" alt="solution-slider-image" />
             </div>
           </div><!-- Page slider end -->
 
