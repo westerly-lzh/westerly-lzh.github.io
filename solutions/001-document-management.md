@@ -1,6 +1,7 @@
 ---
 layout: solution-detail
 title: Document Management Solution
+source: https://www.mayan-edms.com/
 permalink: /solutions/001-document-management.html
 ---
 <section id="main-container" class="main-container">
@@ -12,16 +13,16 @@ permalink: /solutions/001-document-management.html
           <div class="widget">
             <h3 class="widget-title">Features</h3>
             <ul class="nav service-menu">
-              <li><a href="/solutions/001-document-management.html#">Document Versioning</a></li>
-              <li class="active"><a href="/solutions/001-document-management.html#">Digital signatures</a></li>
-              <li><a href="/solutions/001-document-management.html#">User-defined document metadata.</a></li>
-              <li><a href="/solutions/001-document-management.html#">Advanced access control</a></li>
-              <li><a href="/solutions/001-document-management.html#">Office document format support</a></li>
-              <li><a href="/solutions/001-document-management.html#">Full text searching</a></li>
-			  <li><a href="/solutions/001-document-management.html#">Workflows.</a></li>
-			  <li><a href="/solutions/001-document-management.html#">Automatic duplicate document scanning</a></li>
-			  <li><a href="/solutions/001-document-management.html#">Batch uploads</a></li>
-			  <li><a href="/solutions/001-document-management.html#">Open api for system integration</a></li>
+              <li><a href="/solutions/001-document-management.html#features">Document Versioning</a></li>
+              <li><a href="/solutions/001-document-management.html#features">Digital signatures</a></li>
+              <li><a href="/solutions/001-document-management.html#features">User-defined document metadata.</a></li>
+              <li><a href="/solutions/001-document-management.html#features">Advanced access control</a></li>
+              <li><a href="/solutions/001-document-management.html#features">Office document format support</a></li>
+              <li><a href="/solutions/001-document-management.html#features">Full text searching</a></li>
+			  <li><a href="/solutions/001-document-management.html#features">Workflows</a></li>
+			  <li><a href="/solutions/001-document-management.html#features">Automatic duplicate document scanning</a></li>
+			  <li><a href="/solutions/001-document-management.html#features">Batch uploads</a></li>
+			  <li><a href="/solutions/001-document-management.html#features">Open api for system integration</a></li>
 			</ul>
           </div><!-- Widget end -->
 
@@ -75,7 +76,7 @@ permalink: /solutions/001-document-management.html
 
           <div class="row">
             <div class="col-md-12">
-              <h3 class="column-title-small">Key Features of Our Solution</h3>
+              <h3 class="column-title-small" id="features">Key Features of Our Solution</h3>
 
               <p>Find what you need with advanced search, tagging and categorization capabilities. Automate you business processes with workflows. Secure your documents with the role based access control. Web based, cross platform, free open source. Integrates with your existing for no initial investment and low total cost of ownership.</p>
               <ul class="list-arrow">
