@@ -10,7 +10,7 @@ permalink: /solutions/001-document-management.html
       <div class="col-xl-3 col-lg-4">
         <div class="sidebar sidebar-left">
           <div class="widget">
-            <h3 class="widget-title">Solution</h3>
+            <h3 class="widget-title">Features</h3>
             <ul class="nav service-menu">
               <li><a href="/solutions/001-document-management.html#">Document Versioning</a></li>
               <li class="active"><a href="/solutions/001-document-management.html#">Digital signatures</a></li>
@@ -52,116 +52,102 @@ permalink: /solutions/001-document-management.html
 
           <div class="row">
             <div class="col-md-12">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer adipiscing erat eget risus
-                sollicitudin pellentesque et non erat. Maecenas nibh dolor, malesuada et bibendum a, sagittis accumsan
-                ipsum. Pellentesque ultrices ultrices sapien.</p>
-              <p>Nam scelerisque tristique dolor vitae tincidunt. Aenean quis massa uada mi elementum elementum. , nec
-                tincidunt nunc posuere ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo
-                iaculis ligula, ac dapibus quam ornare ut. Praesent ac hendrerit sem, et tempus sem</p>
-            </div><!-- col end -->
+              <p>The rapid digitalization of our world has lead to exponential growth in business data and content. Every day your company is creating and managing massive amounts of business documents, contracts, proposals, sales decks, marketing material, blog posts, HR guidelines, training manuals, onboarding material, etc.</p>
+              <p>These documents are often scattered all over the place on your digital devices- you may have Word files, files stored in cloud apps like Dropbox, Google Drive, OneDrive, Box, files stored on your desktop, email attachments, and so on.</p>
+			  <p>What happens when you can’t find a file in the middle of a meeting? Or when your manager immediately needs that important document, but you cannot seem to remember where you stored it?</p>
+			  <p>A document management system plays a huge role in making all the tasks related to the management of documentation easier, faster and efficient.</p>
+			</div><!-- col end -->
           </div><!-- 1st row end-->
 
           <div class="gap-40"></div>
 
           <div id="page-slider" class="page-slider">
             <div class="item">
-              <img loading="lazy" class="img-fluid" src="/images/projects/project1.jpg" alt="project-slider-image" />
+              <img loading="lazy" class="img-fluid" src="/images/solution/document-management001.jpg" alt="solution-slider-image" />
             </div>
 
             <div class="item">
-              <img loading="lazy" class="img-fluid" src="/images/projects/project2.jpg" alt="project-slider-image" />
+              <img loading="lazy" class="img-fluid" src="/images/solution/document-management002.png" alt="solution-slider-image" />
             </div>
           </div><!-- Page slider end -->
 
           <div class="gap-40"></div>
 
           <div class="row">
-            <div class="col-md-6">
-              <h3 class="column-title-small">What Makes Us Different</h3>
+            <div class="col-md-12">
+              <h3 class="column-title-small">Key Features of Our Solution</h3>
 
-              <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
-                moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-                Consectetur adipiscing elit. Integer adipiscing erat eget risus sollicitudin pellentesque et non erat
-                tincidunt nunc posuere.</p>
+              <p>Find what you need with advanced search, tagging and categorization capabilities. Automate you business processes with workflows. Secure your documents with the role based access control. Web based, cross platform, free open source. Integrates with your existing for no initial investment and low total cost of ownership.</p>
               <ul class="list-arrow">
-                <li>Partnership Strategy tristique eleifend.</li>
-                <li>Opporutnity to work with amet elit a.</li>
-                <li>Saving Time to Deal with commodo iaculis.</li>
-                <li>Leadership skills to manage erat volutpat.</li>
-                <li>Cut cost without sacrificing dolore magna.</li>
-                <li>Automate your business elis tristique.</li>
+                <li>Document versioning. Store many versions of the same document, download or revert to a
+previous version.</li>
+
+<li>Digital signatures. Check the authenticity of documents by verifying their embedded
+cryptographic signatures or upload detached signatures for document
+signed after they were stored.
+
+</li>
+<li>User-defined document metadata. Several metadata fields can be matched to a document type as per technical,
+legal or structural requirements such as the <a class="reference external" href="http://dublincore.org/metadata-basics/">Dublin core</a> or <a class="reference external" href="https://www.iso.org/standard/73172.html">ISO 23081</a>
+just to name a few. Metadata fields can have an initial value, which can be static or determined
+by a template code snippet provided by the user.</li>
+
+</li>
+<li>Documents can be uploaded from different sources. Local file or server side file uploads, multifunctional copier, or even via
+email.
+</li>
+<li>Advanced access control system. Role based access control. It is possible to create an unlimited amount
+of different roles not being restricted to the traditional admin,
+operator, guest paradigm.There is a permission for every atomic operation performed by users.
+</li>
+<li>Previews for many file formats. Provides image preview generation for many popular file
+formats.
+</li>
+<li> Office document format support. Can detect the presence of LibreOffice and use it to generate
+previews for word processing files, spreadsheets, and presentations.
+</li>
+<li>Full text searching. Documents can be searched by their text content, their metadata or any other
+file attribute such as name, extension, etc.
+</li>
+<li>Configurable document grouping. Automatic linking of documents based on metadata values or document
+properties.
+</li>
+<li>Automatic OCR processing. The task of transcribing text from documents via OCR can be distributed
+among several physical or virtual computers to decrease load and increase
+availability.The current language of the document is passed to the corresponding OCR
+engine to increase the text recognition rate.
+</li>
+
+<li>Plugable storage backends. Built in support for file system storage. It is very easy to use 3rd party plugins such as the ones available for
+Amazon EC2. Use cloud object storage like S3 or on premise using Minio.
+</li>
+<li>Workflows. Keep track of the state of documents, along with the log of the previous
+state changes. Use the workflow engine to automate business processes by executing
+system actions. Trigger external processes using the workflow. Execute actions in other
+systems when a document hits a specific state for complete business
+automation.
+</li>
+
+<li>Automatic duplicate document scanning.Extensible system to allow for specific duplication search criteria. By
+default, backends are supplied to scan for documents with exact files and
+exact labels.
+</li>
+<li>Complete event tracking system. Every action performed in the system is recorded, perfect for auditing.</p></li>
+<li>Users and other apps can subscribe to events to perform actions or
+provide notifications.
+</li>
+<li>Configurable authentication system. Take advantage of the default username or email authentication backends
+provided for a quick deployment or install your own. Can extended to support single sign on, LDAP, or other protocols.
+</li>
+
+<li>>Batch uploads. Many documents can be upload in a single action. Clone a document’s metadata for speedier uploads and eliminate repetitive
+data entry.
+</li>
+<li>Collaboration tools. Discuss documents, or comment on new versions of a document.
+</li>
               </ul>
+			  
             </div>
-
-            <div class="col-md-6 mt-5 mt-md-0">
-              <h3 class="column-title-small">You Should Know</h3>
-
-              <div class="accordion accordion-group accordion-classic" id="construction-accordion">
-                <div class="card">
-                  <div class="card-header p-0 bg-transparent" id="headingOne">
-                    <h2 class="mb-0">
-                      <button class="btn btn-block text-left" type="button" data-toggle="collapse"
-                        data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Does the law require head protection on construction sites?
-                      </button>
-                    </h2>
-                  </div>
-
-                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                    data-parent="#construction-accordion">
-                    <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3
-                      wolf
-                      moon officia aute, non cupidata
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header p-0 bg-transparent" id="headingTwo">
-                    <h2 class="mb-0">
-                      <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
-                        data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        What are the first aid requirements for sites?
-                      </button>
-                    </h2>
-                  </div>
-                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
-                    data-parent="#construction-accordion">
-                    <div class="card-body">
-                      Anemi nim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea com modo
-                      consequat.
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                      pariatur.
-                      Excepteur sint occaecat cupid henderit in voluptate velit esse cillu oris nisi ut aliquip ex ea
-                      com
-                      matat.
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header p-0 bg-transparent" id="headingThree">
-                    <h2 class="mb-0">
-                      <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
-                        data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        What is an appointed person?
-                      </button>
-                    </h2>
-                  </div>
-                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                    data-parent="#construction-accordion">
-                    <div class="card-body">
-                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                      the
-                      industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                      and
-                      scrambled it to make a type specimen book.
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!--/ Accordion end -->
-            </div>
-          </div>
           <!--2nd row end -->
 
           <div class="gap-40"></div>
@@ -170,7 +156,7 @@ permalink: /solutions/001-document-management.html
             <div class="row align-items-center">
               <div class="col-md-8 text-center text-md-left">
                 <div class="call-to-action-text">
-                  <h3 class="action-title">Interested with this service.</h3>
+                  <h3 class="action-title">Interested with this Solution.</h3>
                 </div>
               </div><!-- Col end -->
               <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
