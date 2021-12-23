@@ -1,5 +1,5 @@
 ---
-layout: service-detail
+layout: solution-detail
 title: Document Management Solution
 permalink: /solutions/001-document-management.html
 ---
@@ -139,7 +139,7 @@ provide notifications.
 provided for a quick deployment or install your own. Can extended to support single sign on, LDAP, or other protocols.
 </li>
 
-<li>>Batch uploads. Many documents can be upload in a single action. Clone a document’s metadata for speedier uploads and eliminate repetitive
+<li>Batch uploads. Many documents can be upload in a single action. Clone a document’s metadata for speedier uploads and eliminate repetitive
 data entry.
 </li>
 <li>Collaboration tools. Discuss documents, or comment on new versions of a document.
