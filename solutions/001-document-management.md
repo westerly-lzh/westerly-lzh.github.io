@@ -92,7 +92,6 @@ legal or structural requirements such as the <a class="reference external" href=
 just to name a few. Metadata fields can have an initial value, which can be static or determined
 by a template code snippet provided by the user.</li>
 
-</li>
 <li>Documents can be uploaded from different sources. Local file or server side file uploads, multifunctional copier, or even via
 email.
 </li>
@@ -132,7 +131,7 @@ automation.
 default, backends are supplied to scan for documents with exact files and
 exact labels.
 </li>
-<li>Complete event tracking system. Every action performed in the system is recorded, perfect for auditing.</p></li>
+<li>Complete event tracking system. Every action performed in the system is recorded, perfect for auditing.</li>
 <li>Users and other apps can subscribe to events to perform actions or
 provide notifications.
 </li>
@@ -146,7 +145,7 @@ data entry.
 <li>Collaboration tools. Discuss documents, or comment on new versions of a document.
 </li>
               </ul>
-			  
+			  </div>
             </div>
           <!--2nd row end -->
 
