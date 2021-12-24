@@ -8,7 +8,6 @@ phone: +1 123456789
 collections:
   solutions:
     output: true
-    directory: /solutions/
 
 
 
