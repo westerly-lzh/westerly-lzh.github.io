@@ -5,6 +5,13 @@ title: Constra
 email: info@constra.com
 phone: +1 123456789
 
+collections:
+  solutions:
+    output: true
+    directory: /solutions/
+
+
+
 
 markdown: kramdown
 permalink: pretty

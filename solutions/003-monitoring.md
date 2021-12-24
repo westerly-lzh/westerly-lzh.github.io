@@ -1,8 +1,11 @@
 ---
 layout: solution-detail
-title: Document Management Solution
+title: Monitoring Solution
+description: This is our Monitoring Solution
 source: https://www.mayan-edms.com/
-permalink: /solutions/001-document-management.html
+image: /images/solutions/document-management001.jpg
+icon:  /images/icon-image/fact2.png
+permalink: /solutions/003-monitoring.html
 ---
 <section id="main-container" class="main-container">
   <div class="container">

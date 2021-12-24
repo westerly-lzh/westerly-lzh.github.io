@@ -1,7 +1,10 @@
 ---
 layout: solution-detail
 title: Document Management Solution
+description: This is our Document Management Solution
 source: https://www.mayan-edms.com/
+image: /images/solutions/document-management001.jpg
+icon:  /images/icon-image/fact2.png
 permalink: /solutions/001-document-management.html
 ---
 <section id="main-container" class="main-container">
