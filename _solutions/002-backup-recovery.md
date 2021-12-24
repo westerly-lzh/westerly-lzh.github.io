@@ -1,5 +1,6 @@
 ---
 layout: solution-detail
+type: ict-idc
 title: Data Backup Recovery Solution
 description: This is our Backup Recovery Solution
 source: https://www.veritas.com/

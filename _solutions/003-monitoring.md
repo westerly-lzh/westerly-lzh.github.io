@@ -1,5 +1,6 @@
 ---
 layout: solution-detail
+type: not-yet
 title: Monitoring Solution
 description: This is our Monitoring Solution
 source: https://www.mayan-edms.com/

@@ -13,7 +13,8 @@
 <section id="main-container" class="main-container pb-2">
   <div class="container">
     <div class="row">
-	{% for solution in site.solutions %}
+	{% assign itc_idc_solutions = site.solutions | where: "type", "ict-idc" %}
+	{% for solution in itc_idc_solutions %}
 	    <div class="col-lg-4 col-md-6 mb-5">
 			<div class="ts-service-box">
 				<div class="ts-service-image-wrapper">
