@@ -527,7 +527,8 @@ a[href^=tel] {
 }
 
 .btn-dark {
-  background: #50637c;
+  /*background: #50637c; */
+  background: #009390;
 }
 
 .btn-primary:hover,
