@@ -1540,7 +1540,8 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   color: #fff;
   margin: 0;
   line-height: 36px;
-  font-size: 18px;
+  font-size: 28px;
+  text-align: center;
   text-transform: uppercase;
 }
 
