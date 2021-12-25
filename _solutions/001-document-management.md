@@ -190,4 +190,3 @@ data entry.
 		</div>
 		<!-- Conatiner end -->
 	</section>
-	<!-- Main container end -->
