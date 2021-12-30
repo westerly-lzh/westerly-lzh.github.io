@@ -4,29 +4,161 @@ title: ICT&IDC Solutions
 permalink: /ict-idc-solutions.html
 ---
 
-<section id="main-container" class="main-container pb-2">
+<section id="main-container" class="main-container">
   <div class="container">
     <div class="row">
-	{% assign itc_idc_solutions = site.solutions | where: "type", "ict-idc" %}
-	{% for solution in itc_idc_solutions %}
-	    <div class="col-lg-4 col-md-6 mb-5">
-			<div class="ts-service-box">
-				<div class="ts-service-image-wrapper">
-					<img loading="lazy" class="w-100" src="{{solution.image}}" alt="service-image">
-				</div>
-				<div class="d-flex">
-					<div class="ts-service-box-img">
-						<img loading="lazy" src="{{solution.icon}}" alt="service-icon">
-					</div>
-					<div class="ts-service-info">
-						<h3 class="service-box-title"><a href="{{solution.permalink}}">{{solution.title}}</a></h3>
-						<p>{{solution.description}}</p>
-						<a class="learn-more d-inline-block" href="{{solution.permalink}}" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
-					</div>
-				</div>
-			</div><!-- Service1 end -->
-		</div><!-- Col 1 end -->
-	{% endfor %}
+
+      <div class="col-xl-3 col-lg-4">
+        <div class="sidebar sidebar-left">
+          <div class="widget">
+            <h3 class="widget-title">Solutions</h3>
+            <ul class="nav service-menu">
+              <li><a href="#infrastructure">Infrastructure solution</a></li>
+              <li><a href="#hardware">Hardware equipment solution</a></li>
+              <li><a href="#datacenter">Local Datacenter solution</a></li>
+              <li><a href="#cloud">Cloud Solutions</a></li>
+			  <li><a href="#partner">Solution Partners</a></li>
+            </ul>
+          </div><!-- Widget end -->
+
+
+        </div><!-- Sidebar end -->
+      </div><!-- Sidebar Col end -->
+
+      <div class="col-xl-8 col-lg-8">
+        <div class="content-inner-page">
+
+          <h2 class="column-title mrt-0" id="infrastructure">Infrastructure solution</h2>
+
+          <div class="row">
+            <div class="col-md-12" >
+              <p>We deeply understand the importance of excellent infrastructure landscape to organization's strategy and business. 
+				We have experts with rich experience on the scalable infrastructure solution designing and implementation, 
+				we also have the support teams to help customer maintain their existing IT infrastructure. 
+				Key abilities of our team is listed for customer's AS-IS/TO-BE IT infrastructure </p>
+              <ul class="list-arrow">
+                <li>Network solutions.</li>
+                <li>Storage solutions.</li>
+                <li>Virtualization solutions.</li>
+                <li>Backup/Disaster recovery solutions.</li>
+                <li>Anti-virus solutions.</li>
+                <li>Other IT infrastructure solutions with inquiry.</li>
+              </ul>
+            </div><!-- col end -->
+          </div><!-- 1st row end-->
+
+          
+
+          <div id="page-slider" class="page-slider">
+            <div class="item">
+              <img loading="lazy" class="img-fluid" src="/images/projects/project1.jpg" alt="project-slider-image" />
+            </div>
+          </div><!-- Page slider end -->
+		  <div class="gap-40"></div>
+		  <h2 class="column-title mrt-0" id="hardware">Hardware equipment solution</h2>
+
+          <div class="row">
+            <div class="col-md-12" >
+              <p>It still needs computing hardware equipments to support 7*24 and stable long time business service request.
+				Our team can provide such hardware equipments for the hardware upgrade of AS-IS IT infrastructure and 
+				also the provisioning and installation of new hardware equipments for the TO-BE IT infrastructure.
+			  </p>
+              <ul class="list-arrow">
+                <li>Racks </li>
+                <li>Servers</li>
+                <li>Network devices</li>
+                <li>Storage devices</li>
+                <li>Tape Library</li>
+                <li>KVM</li>
+				<li>Other hardware equipments with inquiry</li>
+              </ul>
+            </div><!-- col end -->
+          </div><!-- 1st row end-->
+		  
+		  
+
+          <div id="page-slider" class="page-slider">
+
+            <div class="item">
+              <img loading="lazy" class="img-fluid" src="/images/projects/project2.jpg" alt="project-slider-image" />
+            </div>
+          </div><!-- Page slider end -->
+		  <div class="gap-40"></div>
+		  		  <h2 class="column-title mrt-0" id="datacenter">Local Datacenter solution</h2>
+
+          <div class="row">
+            <div class="col-md-12"  >
+              <p>Customers especial those large companies perfer to run their business applicaitons in the local datacenter 
+			  with customizable requirements and security considerations. our experts can provide the datacenter planning, designing and implementation with below key features:</p>
+              <ul class="list-arrow">
+                <li>Layout design </li>
+                <li>Power supply</li>
+                <li>Cooling</li>
+                <li>Fire-safety</li>
+                <li>Security</li>
+                <li>Wiring</li>
+				<li>Internet and other reqiurments</li>
+              </ul>
+            </div><!-- col end -->
+          </div><!-- 1st row end-->
+		  
+		  
+
+          <div id="page-slider" class="page-slider">
+
+            <div class="item">
+              <img loading="lazy" class="img-fluid" src="/images/projects/project2.jpg" alt="project-slider-image" />
+            </div>
+          </div><!-- Page slider end -->
+          <div class="gap-40"></div>
+
+		  <h2 class="column-title mrt-0" id="cloud">Cloud solution</h2>
+
+          <div class="row" >
+            <div class="col-md-12">
+              <p>Clouds become more and more interested by customers wiht less cost, quick and easily scalable implementation requirements, 
+			  espically for these small and startup companies. Our cloud experts have very rich experience on AWS, Azure and Ali cloud, and we can provide suggestions from 
+			  the business view to help customer get the answers for such below questions and assist to implement applications. </p>
+              <ul class="list-arrow">
+                <li>Public or private cloud to choose? </li>
+                <li>Which public cloud to choose?</li>
+                <li>How to sizing the cloud resource to save cost.</li>
+                <li>How to deploy application on cloud</li>
+                <li>What's the key requirements/constrains to be considered when megrating or new deploying applicaitons to cloud. </li>
+                <li>How to design the integration and securities for the local and cloud</li>
+              </ul>
+            </div><!-- col end -->
+          </div><!-- 1st row end-->
+
+          <div class="gap-40"></div>
+			<h2 class="column-title mrt-0" id="partner">Solution Partners</h2>
+		  <div id="page-slider" class="page-slider">
+
+            <div class="item">
+              <img loading="lazy" class="img-fluid" src="/images/projects/project2.jpg" alt="project-slider-image" />
+            </div>
+          </div><!-- Page slider end -->
+          <div class="gap-40"></div>
+
+          <div class="call-to-action classic">
+            <div class="row align-items-center">
+              <div class="col-md-8 text-center text-md-left">
+                <div class="call-to-action-text">
+                  <h3 class="action-title">Interested with this service.</h3>
+                </div>
+              </div><!-- Col end -->
+              <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
+                <div class="call-to-action-btn">
+                  <a class="btn btn-primary" href="#">Get a Quote</a>
+                </div>
+              </div><!-- col end -->
+            </div><!-- row end -->
+          </div><!-- Action end -->
+
+        </div><!-- Content inner end -->
+      </div><!-- Content Col end -->
+
+
     </div><!-- Main row end -->
   </div><!-- Conatiner end -->
 </section><!-- Main container end -->
