@@ -4,6 +4,7 @@ type: ict-idc
 title: Document Management Solution
 description: This is our Document Management Solution
 source: https://www.mayan-edms.com/
+banner_image: /images/banner/banner1.jpg
 image: /images/solutions/document-management001.jpg
 icon:  /images/icon-image/fact2.png
 permalink: /solutions/001-document-management.html

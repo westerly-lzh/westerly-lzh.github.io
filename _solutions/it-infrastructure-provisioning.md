@@ -4,6 +4,7 @@ type: ict-idc
 title: Data Backup Recovery Solution
 description: This is our Backup Recovery Solution
 source: https://www.veritas.com/
+banner_image: /images/banner/banner1.jpg
 image: /images/it-infrastructure-provisioning.png
 icon:  /images/icon-image/it-infrastructure-provisioning-icon.png
 permalink: /solutions/it-infrastructure-provisioning.html
