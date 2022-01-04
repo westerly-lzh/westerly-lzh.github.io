@@ -99,14 +99,15 @@ permalink: /application-solutions.html
 		  <h2 class="column-title mrt-0" id="monitor">Application Monitoring Solution</h2>
           <div class="row" >
             <div class="col-md-12">
-              <p>Keeping applications and infrastructure working properly is one the the most important responsibility of the IT department of organizations. The key to successful IT maintenance is the instant insight of status of congituration items, which could be realized by a right and properly customized monitoring tool. We help customers to:</p>
+              <p>Knowing the current status of IT assets is very important for customer, so they can have plans for the IT resource management. Our monitoring solution can help csutomer to achive this target. 
+			  Our monitoring solution can provide the monitor of CPU/Memory/Disk usage of Servers/OS/Applicaiton, the traffic of network device, the databases(Oracle, HANA etc.) runtime status such as Connections, Backup status, and CPU/Memory/Disk usage. key features of our monitoring solution are listed blow: </p>
               <ul class="list-arrow">
-				<li>Setup IT monitoring solution platform</li>
-				<li>Customize monitoring solution according to customer IT enviroment</li>
-				<li>Instant notification of issues</li>
-				<li>Integration with email or SMS</li>
-				<li>Application monitoring: such as SAP, OA, web server</li>
-				<li>Infrastructure monitoring: such as hardware, OS, VM, network</li>
+				<li>Network device supported</li>
+				<li>Multiple OS supported, Linux,Unix,Windows</li>
+				<li>Multiple Databases supported, Oracle, HANA, SQLServer and MySQL</li>
+				<li>Java supported</li>
+				<li>Applicaitons supported, Web server, VMs, SAP</li>
+				<li>Customized Agent for other applicaitons</li>
               </ul>
             </div><!-- col end -->
           </div><!-- 1st row end-->
