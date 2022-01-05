@@ -8,7 +8,8 @@ jQuery(function ($) {
 
 		// fixedHeader on scroll
 		function fixedHeader() {
-			var headerTopBar = $('.top-bar').outerHeight();
+			//var headerTopBar = $('.top-bar').outerHeight();
+			var headerTopBar = 0;
 			var headerOneTopSpace = $('.header-one .logo-area').outerHeight();
 
 			var headerOneELement = $('.header-one .site-navigation');
