@@ -718,8 +718,7 @@ ul.navbar-nav > li > a {
   }
 }
 
-ul.navbar-nav > li:hover > a,
-ul.navbar-nav > li.active > a {
+ul.navbar-nav > li:hover > a,ul.navbar-nav > li.active > a {
   /*color: #009390 !important;*/
 }
 
