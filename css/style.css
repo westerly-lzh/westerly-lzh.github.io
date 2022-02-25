@@ -2433,6 +2433,7 @@ img.testimonial-thumb {
 .footer {
   background-color: #0d0d0d;
   color: #999;
+  position:sticky;
 }
 
 .footer-main {
