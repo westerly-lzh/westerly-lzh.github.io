@@ -451,6 +451,9 @@ ul.list-arrow li:before {
   font-weight: bold;
 }
 
+.list-custom li {
+  line-height: 28px;
+}
 ul.list-custom li:before {
   font-family: "Font Awesome 5 Free";
   margin-right: 10px;
