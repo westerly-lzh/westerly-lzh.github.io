@@ -2427,27 +2427,16 @@ img.testimonial-thumb {
   padding: 20px 0 5px;
 }
 
-html, body {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-}
- 
-/* (B) GRID LAYOUT - AUTO-FILL HEIGHT FOR MAIN SECTION */
-body {
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-}
 /* Footer
 ================================================== */
 /*- Footer common */
 .footer {
   background-color: #0d0d0d;
   color: #999;
- /* bottom: 0px;
+  position: fixed;
+  bottom: 0px;
   left: 0px;
   right: 0px;
-  */
 }
 
 .footer-main {
