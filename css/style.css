@@ -454,8 +454,8 @@ ul.list-arrow li:before {
 ul.list-custom li:before {
   font-family: "Font Awesome 5 Free";
   margin-right: 10px;
-  content:"\f14a";
-  color: var(--var-li-color);
+  content:var(--var-li-icon);
+  color: #009390;
   font-size: 16px;
   font-weight: bold;
 }
